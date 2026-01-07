@@ -40,3 +40,10 @@ It includes a simple server-side contact form for handling user messages.
 - Page structure and layout
 - Integration of Bootstrap and Masonry
 - Implementation of the contact form logic in PHP
+
+---
+
+## Content & Licensing
+
+All visual content and artwork belong to the artist and are not covered by the software license.
+
