@@ -182,7 +182,7 @@ naturaleza</a>
 </nav>
 </header>
 
-<main>
+<main role = 'main'>
 <!-- Contenido principal -->
 <section id = 'section-contacto'>
 <div class = 'container mt-5'>
